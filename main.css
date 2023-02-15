@@ -1,0 +1,49 @@
+.hed
+{
+    padding: 18px 10px;
+}
+.we
+{
+    position: absolute;
+    width: 9%;
+    text-align: center;
+    right: 0;
+    padding: 5% 0% 5% 0%;
+    margin: 0% 0% 0% 0%;
+    background-color: #497375;
+    border-radius: 0px 0px 100px 100px;
+    color: white;
+    /* text-transform: uppercase; */
+}
+.ab
+{
+   background-color: #497375; 
+   padding: 5%;
+}
+.co{
+    background-color: #ea6341;
+    padding: 5%;
+}
+.ex{
+    background-color: #d4e4e4;
+    padding: 3%;
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
+h4{
+    color: #52776f;
+    text-align: center;
+}
+h6{
+    color: #53716b;
+}
+.box{
+    background-color: #53716b;
+    border-style: none;
+    height: 32px;
+    width: 32px;
+    margin: 16px;
+    box-shadow: 5px 4px inset #20284c;
+}
