@@ -1,32 +1,36 @@
 .hed
 {
-    padding: 18px 10px;
+    padding: 1.125rem 0.625rem;
 }
 .we
 {
     position: absolute;
-    width: 9%;
+    width: 16%;
+    font-size: 1rem;
     text-align: center;
-    right: 0;
-    padding: 5% 0% 5% 0%;
-    margin: 0% 0% 0% 0%;
-    background-color: #497375;
-    border-radius: 0px 0px 100px 100px;
-    color: white;
-    /* text-transform: uppercase; */
+    right:23.3125rem;
+    padding: 5% 4% 5% 4%;
+    margin: 0% -16rem;
+    background-color: #497375c5;
+    border-radius: 0rem 0rem 6.25rem 6.25rem;
+    color: white;}
+.repair{
+    text-align: justify;
+    right: 0.625rem;
+    padding: 1%;
 }
 .ab
 {
    background-color: #497375; 
-   padding: 5%;
+   padding: 1.8rem;
 }
 .co{
     background-color: #ea6341;
-    padding: 5%;
+    padding: 1.8rem;
 }
 .ex{
     background-color: #d4e4e4;
-    padding: 3%;
+    padding: 2.2rem;
     text-align: center;
 }
 h5{
@@ -35,6 +39,8 @@ h5{
 h4{
     color: #52776f;
     text-align: center;
+    padding-top: 5%;
+    padding-bottom: 2%;
 }
 h6{
     color: #53716b;
@@ -42,8 +48,13 @@ h6{
 .box{
     background-color: #53716b;
     border-style: none;
-    height: 32px;
-    width: 32px;
-    margin: 16px;
-    box-shadow: 5px 4px inset #20284c;
+    height: 2rem;
+    width: 2rem;
+    margin: 1rem;
+    box-shadow: 0.3125rem 0.25rem inset #20284c;
+}
+footer{
+    padding: 0.5rem;
+    margin-top: 1.5rem;
+    background-color: #ea6341;
 }
